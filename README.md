@@ -1,2 +1,2 @@
 # Image-classfication
-This is a project to apply multiple classification neural network
+This project uses the dataset avalible in https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
