@@ -4,14 +4,13 @@ This project uses the dataset avalible in https://www.kaggle.com/sartajbhuvaji/b
 # Dataset formate
 
 The Data set must be of the following formae
-
-
-Dataset 
-  Test
-    |__ Class 1 
-    |__ Class 2 
-     .. 
-  Train 
-    |__ Class 1 
-    |__ Class 2 
-     .. 
+<pre>
+Dataset <br/>
+  Test<br/>
+    |__ Class 1 <br/>
+    |__ Class 2 <br/>
+     .. <br/>
+  Train <br/>
+    |__ Class 1 <br/>
+    |__ Class 2 <br/>
+     .. <br/>
