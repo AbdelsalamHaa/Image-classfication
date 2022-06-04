@@ -1,6 +1,13 @@
 # Image-classfication
 This project uses the dataset avalible in https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
+
+# Comparesion between multible networks
+Rund the multi_networks_image_classifaction file if you would like to compare between the following networks
+VGG_16
+AlexNet
+ResNet50
+
 # Dataset formate
 
 The Data set must be of the following formae
